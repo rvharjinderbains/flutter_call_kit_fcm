@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "428015433418",
+    "project_id": "superbrains-7b870",
+    "storage_bucket": "superbrains-7b870.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428015433418:android:fc515169e02354b095e633",
+        "android_client_info": {
+          "package_name": "com.angrynerds.superbrains"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "428015433418-nounpb8n1u8ekg8e2jmibr1ovvmlqga5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbi6MWiqo7Bbyqd57V8ijF3DrY5YNQPkA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "428015433418-nounpb8n1u8ekg8e2jmibr1ovvmlqga5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
